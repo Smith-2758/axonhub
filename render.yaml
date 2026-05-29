@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: dewdrop
+    name: dewdrop.aicode
     runtime: docker
     plan: free
     region: singapore
